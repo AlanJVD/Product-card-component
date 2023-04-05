@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/AlanJVD/Product-card-component)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://alanjvd.github.io/Product-card-component/)
 
 ## My process
 
