@@ -70,6 +70,5 @@ I will be studying and practicing CSS media queries in order to improve my mobil
 
 ## Author
 
-- Github - [Alan Delgado](https://github.com/AlanJVD)
 - Frontend Mentor - [Alan Delgado](https://www.frontendmentor.io/profile/AlanJVD)
 - LinkedIn - [Alan Delgado](https://www.linkedin.com/in/alan-delgado-528629256/)
